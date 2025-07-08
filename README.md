@@ -14,3 +14,5 @@ This project demonstrates a complete end-to-end data engineering pipeline built 
 - Azure Databricks
 - Apache Spark (PySpark)
 - REST API (JSON data source)
+
+![Screenshot Job](Screenshot_job.png)
